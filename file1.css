@@ -1,0 +1,51 @@
+main{
+    background: rgb(255, 247, 50);
+    text-align: center;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr;
+    grid-template-rows: 2fr 2fr;
+    height: 500px;
+    /* display: flex; */
+    justify-content: space-between;
+}
+footer{
+    background: red;
+    text-align: center;
+    padding: 20px;
+    
+
+}
+header{
+    background: green;
+    text-align: center;
+    padding: 20px;
+}
+.cont1{
+    background-color: rgb(255, 0, 149);
+    margin: 25px;
+
+}
+.cont2{
+    background-color: rgb(43, 0, 255);
+    margin: 25px;
+}
+.cont3{
+    background-color: aqua;
+    margin: 25px;
+}
+.cont4{
+    background-color: #12bd2c;
+    margin: 25px;
+
+}
+.cont5{
+    background-color: rgb(255, 0, 0);
+    margin: 25px;
+
+}
+.cont6{
+    background-color: rgb(255, 0, 102);
+    margin: 25px;
+
+}

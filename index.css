@@ -1,0 +1,39 @@
+li :nth-of-child(2){
+    color: aqua;
+}
+div + h1 {
+    color: aqua;
+}
+.Mypage{
+    color: black;
+    background-color: #79ee04;
+}
+.wrapper{
+    color: blue;
+    background-color: bisque;
+}
+.mybutton{
+    color: rgb(185, 231, 3);
+    background-color: #f50699;
+}
+
+.wrapper:hover {
+    background-color: yellow;
+  }
+  
+.text {
+    border: #79ee04;
+    width: 300px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow:ellipsis;
+}  
+.text: :hover{
+    overflow: :focus-visible;
+}
+.vert {
+    writing-mode: vertical-tr;
+}
+h1 {
+    text-shadow: 2px 2px 5px red;
+  }

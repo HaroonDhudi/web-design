@@ -1,0 +1,20 @@
+body{
+    height: 95vb;
+    display: grid;
+    grid-template-areas: "head head" 
+    "nav main"
+    "footer footer";
+    grid-template-rows: 150px 1fr 150px;
+    grid-template-columns: 150px 1fr ;
+    color: aqua;
+    font-size: 2em;
+    
+
+
+}
+header{
+    grid-area: red;
+    background: green;
+    text-align: center;
+    padding: 5px;
+}
