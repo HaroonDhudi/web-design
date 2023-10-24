@@ -16,11 +16,9 @@ div + h1 {
     color: rgb(185, 231, 3);
     background-color: #f50699;
 }
-
 .wrapper:hover {
     background-color: yellow;
-  }
-  
+  } 
 .text {
     border: #79ee04;
     width: 300px;

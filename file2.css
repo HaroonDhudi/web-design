@@ -5,51 +5,44 @@ body {
     padding: 60px;
 }
 header {
-    background-color: #442c2e;
-    color: #fff;
+    background-color: #d3c204;
+    color: #f1f1f1;
     padding: 20px 0;
     text-align: center;
     margin: 25px;
 }
-
 h1 {
     font-size: 36px;
     margin: 25px;
 }
-
 nav {
-    background-color: #613a3c;
-    color: #fff;
+    background-color: #9b9b10;
+    color: #bb8b11;
     text-align: center;
     padding: 10px 0;
 }
-
 nav ul {
     list-style: none;
     padding: 0;
 }
-
 nav li {
     display: inline;
     margin: 0 20px;
 }
-
 .container {
     max-width: 960px;
     margin: 20px auto;
     padding: 20px;
-    background-color: #fff;
+    background-color: #8b840c;
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 10px rgba(219, 207, 33, 0.2);
 }
-
 .menu-item {
     display: flex;
     justify-content: space-between;
     margin-bottom: 20px;
     align-items: center;
 }
-
 .menu-item img {
     max-width: 100px;
     max-height: 100px;
@@ -61,8 +54,7 @@ nav li {
     font-size: 18px;
     margin: 0;
 }
-
 /* Add hover effect to navigation links */
 nav a:hover {
-    color: #ff5733;
+    color: #edefed;
 }

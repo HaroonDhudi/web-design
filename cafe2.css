@@ -8,9 +8,6 @@ body{
     grid-template-columns: 150px 1fr ;
     color: aqua;
     font-size: 2em;
-    
-
-
 }
 header{
     grid-area: red;

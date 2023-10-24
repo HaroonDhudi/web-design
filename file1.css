@@ -13,8 +13,6 @@ footer{
     background: red;
     text-align: center;
     padding: 20px;
-    
-
 }
 header{
     background: green;
@@ -24,7 +22,6 @@ header{
 .cont1{
     background-color: rgb(255, 0, 149);
     margin: 25px;
-
 }
 .cont2{
     background-color: rgb(43, 0, 255);
@@ -37,15 +34,12 @@ header{
 .cont4{
     background-color: #12bd2c;
     margin: 25px;
-
 }
 .cont5{
     background-color: rgb(255, 0, 0);
     margin: 25px;
-
 }
 .cont6{
     background-color: rgb(255, 0, 102);
     margin: 25px;
-
 }
